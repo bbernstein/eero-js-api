@@ -3,8 +3,8 @@
   "version": "0.0.1",
   "description": "A wrapper for talking to eero mesh routers",
   "license": "MIT",
-  "main": "eero-node.js",
-  "name": "eero-node",
+  "main": "eero-api.js",
+  "name": "eero-js-api",
   "keywords": [
     "eero",
     "javascript",
